@@ -6,6 +6,7 @@ C:\tirgul\prakticode\p3\TodoApi\bin\Debug\net8.0\TodoApi.runtimeconfig.json
 C:\tirgul\prakticode\p3\TodoApi\bin\Debug\net8.0\TodoApi.dll
 C:\tirgul\prakticode\p3\TodoApi\bin\Debug\net8.0\TodoApi.pdb
 C:\tirgul\prakticode\p3\TodoApi\bin\Debug\net8.0\Humanizer.dll
+C:\tirgul\prakticode\p3\TodoApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\tirgul\prakticode\p3\TodoApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\tirgul\prakticode\p3\TodoApi\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
 C:\tirgul\prakticode\p3\TodoApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
@@ -20,6 +21,8 @@ C:\tirgul\prakticode\p3\TodoApi\bin\Debug\net8.0\Microsoft.Extensions.Dependency
 C:\tirgul\prakticode\p3\TodoApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
 C:\tirgul\prakticode\p3\TodoApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
 C:\tirgul\prakticode\p3\TodoApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\tirgul\prakticode\p3\TodoApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\tirgul\prakticode\p3\TodoApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\tirgul\prakticode\p3\TodoApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 C:\tirgul\prakticode\p3\TodoApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
 C:\tirgul\prakticode\p3\TodoApi\bin\Debug\net8.0\Mono.TextTemplating.dll
@@ -94,6 +97,7 @@ C:\tirgul\prakticode\p3\TodoApi\obj\Debug\net8.0\TodoApi.AssemblyInfo.cs
 C:\tirgul\prakticode\p3\TodoApi\obj\Debug\net8.0\TodoApi.csproj.CoreCompileInputs.cache
 C:\tirgul\prakticode\p3\TodoApi\obj\Debug\net8.0\TodoApi.MvcApplicationPartsAssemblyInfo.cs
 C:\tirgul\prakticode\p3\TodoApi\obj\Debug\net8.0\TodoApi.MvcApplicationPartsAssemblyInfo.cache
+C:\tirgul\prakticode\p3\TodoApi\obj\Debug\net8.0\TodoApi.sourcelink.json
 C:\tirgul\prakticode\p3\TodoApi\obj\Debug\net8.0\staticwebassets.build.json
 C:\tirgul\prakticode\p3\TodoApi\obj\Debug\net8.0\staticwebassets.development.json
 C:\tirgul\prakticode\p3\TodoApi\obj\Debug\net8.0\staticwebassets\msbuild.TodoApi.Microsoft.AspNetCore.StaticWebAssets.props
