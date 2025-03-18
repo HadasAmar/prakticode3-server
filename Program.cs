@@ -57,8 +57,6 @@ builder.Services.AddDbContext<MyschemaContext>(options =>
 builder.Services.AddAuthentication("Bearer")
     .AddJwtBearer(options =>
     {
-        // הדפסת הגדרות JWT לצורך בדיקות
-
         options.TokenValidationParameters = new TokenValidationParameters
         {
             ValidateIssuer = true,
@@ -192,7 +190,8 @@ app.MapPut("/items/{id}", async (int id, MyschemaContext context, Item updatedIt
 app.MapDelete("/items/{id}", async (int id, MyschemaContext context) =>
 {
     var item = await context.Items.FindAsync(id);
-    if (item == null) return Results.NotFound();
+    if (item == null) 
+        return Results.NotFound();
 
     context.Items.Remove(item);
     await context.SaveChangesAsync();
