@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: prakticode3-server
+    env: docker
+    dockerfile_path: ./Dockerfile  # או כל נתיב אחר בו נמצא ה-Dockerfile
